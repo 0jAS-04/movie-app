@@ -2,6 +2,10 @@
 
 A React application for browsing and searching movies, built with Vite and The Movie Database (TMDB) API.
 
+![Movie App](https://github.com/user-attachments/assets/df109363-b371-4192-8edf-8d936f6965d6)
+![Movie App · 01 41 · 11-16](https://github.com/user-attachments/assets/ba71b688-f9bc-4b55-88f6-3615001f7470)
+
+
 ## Features
 
 - Browse popular movies
